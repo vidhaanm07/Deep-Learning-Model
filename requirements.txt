@@ -1,0 +1,12 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+# Notebook 'Keras 3' style training logs (e.g. "92/92 - 8s - 82ms/step") imply TensorFlow >= 2.16
+tensorflow>=2.16
+# To run the notebook
+jupyter
+# NOTE: before submission, replace the lines above with the exact versions you used:
+#   pip freeze | findstr /i "numpy pandas matplotlib seaborn scikit-learn tensorflow"
